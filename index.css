@@ -1,1 +1,71 @@
+.top {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
+}
 
+.info {
+
+    display: inline-flex;
+}
+
+h2 {
+    padding: 10px
+
+}
+
+.posts {
+    display: flex;
+    justify-content: center;
+}
+
+.posts {
+    display: flex;
+    /* justify-content: space-around; */
+
+}
+
+.posts {
+    display: flex;
+
+}
+
+img {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.posts img {
+    width: 300px;
+    aspect-ratio: 1/1;
+    border-radius: 0%;
+    padding: 1px;
+    object-fit: cover;
+}
+
+.name {
+    display: flex;
+}
+
+.name2 {
+    display: flex;
+}
+
+.pfp {
+    padding: 25px;
+}
+
+header {
+    margin-left: 50px;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    padding: 2px;
+}
+.follow{
+    background-color: lightblue;
+    border-radius: 10px;
+}
